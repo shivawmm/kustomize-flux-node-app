@@ -56,7 +56,7 @@ app.get('/', (req, res) => {
           <hr />
 
           <p><strong>Environment:</strong> Development</p>
-          <p><strong>Version:</strong> v1</p>
+          <p><strong>Version:</strong> v2</p>
           <p><strong>Platform:</strong> Kustomize + FluxCD</p>
         </div>
       </body>
