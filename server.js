@@ -45,7 +45,7 @@ app.get('/', (req, res) => {
 
       <body>
         <div class="card">
-          <h1>🚀 Kustomize + FluxCD Demo</h1>
+          <h1>🚀 Kustomize + FluxCD Demo version 3</h1>
 
           <h3>Task List</h3>
 
@@ -56,7 +56,7 @@ app.get('/', (req, res) => {
           <hr />
 
           <p><strong>Environment:</strong> Development</p>
-          <p><strong>Version:</strong> v2</p>
+          <p><strong>Version:</strong> v3</p>
           <p><strong>Platform:</strong> Kustomize + FluxCD</p>
         </div>
       </body>
